@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
