@@ -14,5 +14,7 @@
         <module>Backend/Microservices/Commande-Service</module>
         <module>Backend/Microservices/Restaurant-Service</module>
         <module>Backend/Microservices/Menu-Service</module>
+        <module>Backend/Microservices/Livraison-Service</module>
+        <module>Backend/Microservices/Notification-Service</module>
     </modules>
 </project>
