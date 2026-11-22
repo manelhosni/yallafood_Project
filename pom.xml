@@ -13,5 +13,6 @@
         <module>Backend/Microservices/Eureka-Server</module>
         <module>Backend/Microservices/Commande-Service</module>
         <module>Backend/Microservices/Restaurant-Service</module>
+        <module>Backend/Microservices/Menu-Service</module>
     </modules>
 </project>
